@@ -11,6 +11,12 @@ import com.singularitycoder.tripme.databinding.ActivityMainBinding
 // Clockwise rotating, shrinking and vanishing at the center
 // Pendulum or swaying stuff
 // Mandelbrot zooms
+// Flowing right to left and slowly descending from top to bottom
+
+
+// Zooms
+// Spirals
+// Sways
 
 class MainActivity : AppCompatActivity() {
 
