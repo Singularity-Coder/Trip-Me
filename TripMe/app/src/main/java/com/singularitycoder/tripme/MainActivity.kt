@@ -18,6 +18,12 @@ import com.singularitycoder.tripme.databinding.ActivityMainBinding
 // Spirals
 // Sways
 
+// Fractals
+// Breathing animations
+// Loops
+// Zoom ins and outs
+// Rotations
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
